@@ -1,1 +1,17 @@
+https://raw.githubusercontent.com/adminlacalleracing/la-calle-racing/refs/heads/main/assets/cars/honda-civic-95-3doors.png.svg
 
+https://raw.githubusercontent.com/adminlacalleracing/la-calle-racing/refs/heads/main/assets/cars/chevrolet-sprint-95-3doors.svg
+
+https://raw.githubusercontent.com/adminlacalleracing/la-calle-racing/refs/heads/main/assets/cars/chevy-c2-99-sedan.svg
+
+https://raw.githubusercontent.com/adminlacalleracing/la-calle-racing/refs/heads/main/assets/cars/nissan-sentra-98-sedan.svg
+
+https://raw.githubusercontent.com/adminlacalleracing/la-calle-racing/refs/heads/main/assets/cars/nissan-tsuru-00-sedan.svg
+
+https://raw.githubusercontent.com/adminlacalleracing/la-calle-racing/refs/heads/main/assets/cars/renault-19-16V-91-sedan.svg
+
+https://raw.githubusercontent.com/adminlacalleracing/la-calle-racing/refs/heads/main/assets/cars/toyota-corolla-94-sedan.svg
+
+https://raw.githubusercontent.com/adminlacalleracing/la-calle-racing/refs/heads/main/assets/cars/toyota-corolla-gts-twin-cam-16-87.svg
+
+https://raw.githubusercontent.com/adminlacalleracing/la-calle-racing/refs/heads/main/assets/cars/vw-jetta-classic.svg
